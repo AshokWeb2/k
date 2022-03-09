@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Kaushan+Script&family=Mochiy+Pop+P+One&family=Permanent+Marker&family=Sriracha&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Cinzel&family=Kaushan+Script&family=Mochiy+Pop+P+One&family=Permanent+Marker&family=Sriracha&display=swap');
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.cantainer{
+  margin: 55px auto 110px 110px;
+}
+.navbar-logo{
+  font-family: 'Cinzel', serif;
+  font-family: 'Kaushan Script', cursive;
+  font-family: 'Mochiy Pop P One', sans-serif;
+  font-family: 'Permanent Marker', cursive;
+  font-family: 'Sriracha', cursive;
+  font-weight: 900;
+  font-size: xx-large;
+}
+.list-item{
+  font-family: 'Acme', sans-serif;
+  font-family: 'Cinzel', serif;
+  font-family: 'Kaushan Script', cursive;
+  font-family: 'Mochiy Pop P One', sans-serif;
+  font-family: 'Permanent Marker', cursive;
+  font-family: 'Sriracha', cursive;
+  
+}
+ul{
+  display: flex;
+  list-style: none;
+  font-size: x-large;
+  float: right;
+  margin-right: 412px;
+
+}
+ul li{
+  padding-right: 45px;
+  
+}
+ul li:hover{
+  
+
+}
+section{
+  margin: 55px auto 110px 110px;
+}
